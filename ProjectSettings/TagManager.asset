@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - swordP1
+  - swordP2
+  - p1
+  - p2
+  - endScreen
+  - gameplayUI
   layers:
   - Default
   - TransparentFX
